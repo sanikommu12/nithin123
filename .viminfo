@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1716210360,,"wq"
 :q!
 |2,0,1716209168,,"q!"
-:wq
-|2,0,1716209164,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
@@ -32,15 +32,30 @@ $
 # Registers:
 
 # File marks:
-'0  8  0  /var/www/html
-|4,48,8,0,1716209168,"/var/www/html"
+'0  1  47  ~/koti.txt
+|4,48,1,47,1716210360,"~/koti.txt"
+'1  8  0  /var/www/html
+|4,49,8,0,1716209168,"/var/www/html"
 '2  3  9  /var/www/html
 |4,50,3,9,1716208831,"/var/www/html"
 
 # Jumplist (newest first):
+-'  1  47  ~/koti.txt
+|4,39,1,47,1716210360,"~/koti.txt"
+-'  8  0  /var/www/html
+|4,39,8,0,1716209168,"/var/www/html"
 -'  8  0  /var/www/html
 |4,39,8,0,1716209168,"/var/www/html"
 -'  3  9  /var/www/html
 |4,39,3,9,1716208831,"/var/www/html"
+-'  3  9  /var/www/html
+|4,39,3,9,1716208831,"/var/www/html"
 
 # History of marks within files (newest to oldest):
+
+> ~/koti.txt
+	*	1716210356	0
+	"	1	47
+	^	1	48
+	.	1	47
+	+	1	47
